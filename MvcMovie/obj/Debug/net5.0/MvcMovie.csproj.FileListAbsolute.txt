@@ -9,7 +9,6 @@ C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\bin\Debug\net5
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
-C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
@@ -18,7 +17,6 @@ C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
-C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
@@ -38,3 +36,6 @@ C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.StaticWebAssets.xml
+C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
