@@ -36,6 +36,6 @@ C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
-C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.StaticWebAssets.xml
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\admin\Documents\Visual Studio 2019\dev\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
