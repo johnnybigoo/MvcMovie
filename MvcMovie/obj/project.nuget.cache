@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hjZnBZPZcS23Kdqheu5sg35PWLqm2fU0KEIlgz++dyieS/8m1m7bFFrUqUJjk5F7YAuG0eD8rkhkvEafWAT5bg==",
+  "dgSpecHash": "vXSXYxW9gncG1Ya6HSLqhoHKT6Y1bC/HKffyXFHNSUwP2UNKjmUGRYQFWfQQ2bBlPdGvT4bR3+zma1vQ5CJhLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\Visual Studio 2019\\dev\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,7 @@
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.15\\microsoft.entityframeworkcore.design.5.0.15.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.15\\microsoft.entityframeworkcore.relational.5.0.15.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.12\\microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.15\\microsoft.entityframeworkcore.tools.5.0.15.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
